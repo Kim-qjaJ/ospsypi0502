@@ -12,7 +12,7 @@ setuptools.setup (
   install_requires=['pytest'],
   long_description = 'oss-dev practice module',
   long_description_content_type = 'text/markdown',
-  classifiers[
+  classifiers=[
     "Programming Language :: Python :: 3",
     "Operating System :: OS Independent",
   ],
